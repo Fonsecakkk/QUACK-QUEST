@@ -1,0 +1,16 @@
+[gd_scene format=3 uid="uid://c5wcf2h8sxwei"]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="ColorRect" type="ColorRect" parent="."]
+offset_right = 1152.0
+offset_bottom = 648.0
+color = Color(0, 0, 0, 1)
+
+[node name="Label" type="Label" parent="."]
+offset_left = 104.0
+offset_top = 240.0
+offset_right = 1051.0
+offset_bottom = 360.0
+theme_override_font_sizes/font_size = 50
+text = "VAI TOMAR NO CU GABRIEL"
